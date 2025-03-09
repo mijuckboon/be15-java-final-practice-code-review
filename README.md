@@ -9,6 +9,7 @@
      | 순번 | 디렉터리 이름 |
      | --- | --- |
      | 1 | jinwoong | 
+     | 2 | todolist |
 
 3. 본 저장소의 `main` 브랜치로 Pull Request를 보낸다.
 4. Pull Request에서 코드 리뷰를 진행한다.
