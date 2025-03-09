@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Java 프로젝트 완료하기",
+      "dueDate": "2025-03-10",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "운동하기",
+      "dueDate": "2025-03-05",
+      "completed": false
+    }
+  ]
+}
